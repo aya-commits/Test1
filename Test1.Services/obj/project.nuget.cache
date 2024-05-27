@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fHiZWImgDBw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Services\\Test1.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amjanyelwa.COOP\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\amjanyelwa.COOP\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\amjanyelwa.COOP\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

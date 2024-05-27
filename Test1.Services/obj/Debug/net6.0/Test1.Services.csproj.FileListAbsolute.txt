@@ -1,0 +1,17 @@
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\bin\Debug\net6.0\Test1.Services.deps.json
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\bin\Debug\net6.0\Test1.Services.dll
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\bin\Debug\net6.0\Test1.Services.pdb
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\bin\Debug\net6.0\Test1.Domain.dll
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\bin\Debug\net6.0\Test1.Domain.pdb
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\obj\Debug\net6.0\Test1.Services.csproj.AssemblyReference.cache
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\obj\Debug\net6.0\Test1.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\obj\Debug\net6.0\Test1.Services.AssemblyInfoInputs.cache
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\obj\Debug\net6.0\Test1.Services.AssemblyInfo.cs
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\obj\Debug\net6.0\Test1.Services.csproj.CoreCompileInputs.cache
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\obj\Debug\net6.0\Test1.Services.dll
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\obj\Debug\net6.0\refint\Test1.Services.dll
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\obj\Debug\net6.0\Test1.Services.pdb
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\obj\Debug\net6.0\ref\Test1.Services.dll
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\obj\Debug\net6.0\Test1.Se.86E191DA.Up2Date
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\bin\Debug\net6.0\Test1.Common.dll
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Services\bin\Debug\net6.0\Test1.Common.pdb

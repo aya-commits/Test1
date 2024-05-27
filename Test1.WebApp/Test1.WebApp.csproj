@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Test1.Domain.csproj" />
+    <ProjectReference Include="..\Test1.Common\Test1.Common.csproj" />
+    <ProjectReference Include="..\Test1.Services\Test1.Services.csproj" />
+  </ItemGroup>
+
+</Project>

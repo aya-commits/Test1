@@ -1,0 +1,12 @@
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Common\bin\Debug\net6.0\Test1.Common.deps.json
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Common\bin\Debug\net6.0\Test1.Common.dll
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Common\bin\Debug\net6.0\Test1.Common.pdb
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Common\obj\Debug\net6.0\Test1.Common.csproj.AssemblyReference.cache
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Common\obj\Debug\net6.0\Test1.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Common\obj\Debug\net6.0\Test1.Common.AssemblyInfoInputs.cache
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Common\obj\Debug\net6.0\Test1.Common.AssemblyInfo.cs
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Common\obj\Debug\net6.0\Test1.Common.csproj.CoreCompileInputs.cache
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Common\obj\Debug\net6.0\Test1.Common.dll
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Common\obj\Debug\net6.0\refint\Test1.Common.dll
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Common\obj\Debug\net6.0\Test1.Common.pdb
+C:\Users\amjanyelwa.COOP\source\repos\Test1\Test1.Common\obj\Debug\net6.0\ref\Test1.Common.dll

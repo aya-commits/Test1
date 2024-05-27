@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <Id>1</Id>
+    <FirstName>John</FirstName>
+    <LastName>Doe</LastName>
+    <CellphoneNumber>123-456-7890</CellphoneNumber>
+  </User>
+  <User>
+    <Id>2</Id>
+    <FirstName>Jane</FirstName>
+    <LastName>Smith</LastName>
+    <CellphoneNumber>098-765-4321</CellphoneNumber>
+  </User>
+  <User>
+    <Id>3</Id>
+    <FirstName>Test</FirstName>
+    <LastName>User</LastName>
+    <CellphoneNumber>0792636545</CellphoneNumber>
+  </User>
+</Users>
