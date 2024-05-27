@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Common\\Test1.Common.csproj": {}
+    "C:\\Aya\\Test1\\Test1.Common\\Test1.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Common\\Test1.Common.csproj": {
+    "C:\\Aya\\Test1\\Test1.Common\\Test1.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Common\\Test1.Common.csproj",
+        "projectUniqueName": "C:\\Aya\\Test1\\Test1.Common\\Test1.Common.csproj",
         "projectName": "Test1.Common",
-        "projectPath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Common\\Test1.Common.csproj",
+        "projectPath": "C:\\Aya\\Test1\\Test1.Common\\Test1.Common.csproj",
         "packagesPath": "C:\\Users\\amjanyelwa.COOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Common\\obj\\",
+        "outputPath": "C:\\Aya\\Test1\\Test1.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

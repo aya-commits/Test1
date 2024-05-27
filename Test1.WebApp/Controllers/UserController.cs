@@ -1,5 +1,6 @@
 ﻿using Domain.Models;
 using Microsoft.AspNetCore.Mvc;
+using Test1.Domain.ViewModel;
 using Test1.Services.Service;
 
 namespace Test1.Controllers
@@ -13,18 +14,35 @@ namespace Test1.Controllers
             _userService = userService;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(int page = 1, int pageSize = 5)
         {
             try
             {
-                var users = _userService.GetAllUsers();
-                return View(users);
+                List<User> users = _userService.GetAllUsers().OrderBy(u => u.LastName).ToList();
+
+                IEnumerable<User> pagedUsers = users.Skip((page - 1) * pageSize).Take(pageSize);
+
+                int totalUsers = users.Count;
+
+                UserIndexViewModel viewModel = new UserIndexViewModel
+                {
+                    Users = pagedUsers,
+                    PageInfo = new PageInfo
+                    {
+                        CurrentPage = page,
+                        ItemsPerPage = pageSize,
+                        TotalItems = totalUsers
+                    }
+                };
+
+                return View(viewModel);
             }
             catch (Exception)
             {
                 return StatusCode(500, "An error occurred while retrieving users.");
             }
         }
+
 
         public ActionResult Create()
         {

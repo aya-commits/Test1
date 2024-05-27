@@ -9,3 +9,15 @@ C:\Users\amjanyelwa.COOP\source\repos\Test1\Domain\obj\Debug\net6.0\Test1.Domain
 C:\Users\amjanyelwa.COOP\source\repos\Test1\Domain\obj\Debug\net6.0\refint\Test1.Domain.dll
 C:\Users\amjanyelwa.COOP\source\repos\Test1\Domain\obj\Debug\net6.0\Test1.Domain.pdb
 C:\Users\amjanyelwa.COOP\source\repos\Test1\Domain\obj\Debug\net6.0\ref\Test1.Domain.dll
+C:\Aya\Test1\Domain\bin\Debug\net6.0\Test1.Domain.deps.json
+C:\Aya\Test1\Domain\bin\Debug\net6.0\Test1.Domain.dll
+C:\Aya\Test1\Domain\bin\Debug\net6.0\Test1.Domain.pdb
+C:\Aya\Test1\Domain\obj\Debug\net6.0\Test1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aya\Test1\Domain\obj\Debug\net6.0\Test1.Domain.AssemblyInfoInputs.cache
+C:\Aya\Test1\Domain\obj\Debug\net6.0\Test1.Domain.AssemblyInfo.cs
+C:\Aya\Test1\Domain\obj\Debug\net6.0\Test1.Domain.csproj.CoreCompileInputs.cache
+C:\Aya\Test1\Domain\obj\Debug\net6.0\Test1.Domain.sourcelink.json
+C:\Aya\Test1\Domain\obj\Debug\net6.0\Test1.Domain.dll
+C:\Aya\Test1\Domain\obj\Debug\net6.0\refint\Test1.Domain.dll
+C:\Aya\Test1\Domain\obj\Debug\net6.0\Test1.Domain.pdb
+C:\Aya\Test1\Domain\obj\Debug\net6.0\ref\Test1.Domain.dll

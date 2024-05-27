@@ -1,36 +1,67 @@
-﻿
-@{
+﻿@{
     ViewBag.Title = "Index";
 }
-@model IEnumerable<Domain.Models.User>
+@model Test1.Domain.ViewModel.UserIndexViewModel
 
-<h1>Users</h1>
 
-<p>
-    <a href="@Url.Action("Create")" class="btn btn-primary">Create New User</a>
-</p>
+<div class="container mt-5">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")">Home</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Users</li>
+        </ol>
+    </nav>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>First Name</th>
-            <th>Last Name</th>
-            <th>Cellphone Number</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var user in Model)
-        {
-            <tr>
-                <td>@user.FirstName</td>
-                <td>@user.LastName</td>
-                <td>@user.CellphoneNumber</td>
-                <td>
-                    <a href="@Url.Action("Edit", new { id = user.Id })" class="btn btn-warning">Edit</a>
-                    <a href="@Url.Action("Delete", new { id = user.Id })" class="btn btn-danger">Delete</a>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+    <div class="card">
+        <div class="card-header">
+            <h1 class="card-title">Users</h1>
+        </div>
+        <div class="card-body">
+            <p>
+                <a href="@Url.Action("Create")" class="btn btn-success">
+                    <i class="bi bi-plus-lg"></i> Create New User
+                </a>
+            </p>
+
+            <table class="table table-hover">
+                <thead class="table-light">
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Cellphone Number</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var user in Model.Users)
+                    {
+                        <tr>
+                            <td>@user.FirstName</td>
+                            <td>@user.LastName</td>
+                            <td>@user.CellphoneNumber</td>
+                            <td>
+                                <a href="@Url.Action("Edit", new { id = user.Id })" class="btn btn-warning btn-sm">
+                                    <i class="bi bi-pencil-square"></i> Edit
+                                </a>
+                                <a href="@Url.Action("Delete", new { id = user.Id })" class="btn btn-danger btn-sm">
+                                    <i class="bi bi-trash"></i> Delete
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <nav>
+                <ul class="pagination">
+                    @for (int i = 1; i <= Model.PageInfo.TotalPages; i++)
+                    {
+                        <li class="page-item @(i == Model.PageInfo.CurrentPage ? "active" : "")">
+                            <a class="page-link" href="@Url.Action("Index", new { page = i })">@i</a>
+                        </li>
+                    }
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>

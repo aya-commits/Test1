@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.WebApp\\Test1.WebApp.csproj": {}
+    "C:\\Aya\\Test1\\Test1.WebApp\\Test1.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Domain\\Test1.Domain.csproj": {
+    "C:\\Aya\\Test1\\Domain\\Test1.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Domain\\Test1.Domain.csproj",
+        "projectUniqueName": "C:\\Aya\\Test1\\Domain\\Test1.Domain.csproj",
         "projectName": "Test1.Domain",
-        "projectPath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Domain\\Test1.Domain.csproj",
+        "projectPath": "C:\\Aya\\Test1\\Domain\\Test1.Domain.csproj",
         "packagesPath": "C:\\Users\\amjanyelwa.COOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Domain\\obj\\",
+        "outputPath": "C:\\Aya\\Test1\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Common\\Test1.Common.csproj": {
+    "C:\\Aya\\Test1\\Test1.Common\\Test1.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Common\\Test1.Common.csproj",
+        "projectUniqueName": "C:\\Aya\\Test1\\Test1.Common\\Test1.Common.csproj",
         "projectName": "Test1.Common",
-        "projectPath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Common\\Test1.Common.csproj",
+        "projectPath": "C:\\Aya\\Test1\\Test1.Common\\Test1.Common.csproj",
         "packagesPath": "C:\\Users\\amjanyelwa.COOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Common\\obj\\",
+        "outputPath": "C:\\Aya\\Test1\\Test1.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Services\\Test1.Services.csproj": {
+    "C:\\Aya\\Test1\\Test1.Services\\Test1.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Services\\Test1.Services.csproj",
+        "projectUniqueName": "C:\\Aya\\Test1\\Test1.Services\\Test1.Services.csproj",
         "projectName": "Test1.Services",
-        "projectPath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Services\\Test1.Services.csproj",
+        "projectPath": "C:\\Aya\\Test1\\Test1.Services\\Test1.Services.csproj",
         "packagesPath": "C:\\Users\\amjanyelwa.COOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Services\\obj\\",
+        "outputPath": "C:\\Aya\\Test1\\Test1.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,11 +175,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Domain\\Test1.Domain.csproj": {
-                "projectPath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Domain\\Test1.Domain.csproj"
+              "C:\\Aya\\Test1\\Domain\\Test1.Domain.csproj": {
+                "projectPath": "C:\\Aya\\Test1\\Domain\\Test1.Domain.csproj"
               },
-              "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Common\\Test1.Common.csproj": {
-                "projectPath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Common\\Test1.Common.csproj"
+              "C:\\Aya\\Test1\\Test1.Common\\Test1.Common.csproj": {
+                "projectPath": "C:\\Aya\\Test1\\Test1.Common\\Test1.Common.csproj"
               }
             }
           }
@@ -224,14 +224,14 @@
         }
       }
     },
-    "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.WebApp\\Test1.WebApp.csproj": {
+    "C:\\Aya\\Test1\\Test1.WebApp\\Test1.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.WebApp\\Test1.WebApp.csproj",
+        "projectUniqueName": "C:\\Aya\\Test1\\Test1.WebApp\\Test1.WebApp.csproj",
         "projectName": "Test1.WebApp",
-        "projectPath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.WebApp\\Test1.WebApp.csproj",
+        "projectPath": "C:\\Aya\\Test1\\Test1.WebApp\\Test1.WebApp.csproj",
         "packagesPath": "C:\\Users\\amjanyelwa.COOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.WebApp\\obj\\",
+        "outputPath": "C:\\Aya\\Test1\\Test1.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -255,14 +255,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Domain\\Test1.Domain.csproj": {
-                "projectPath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Domain\\Test1.Domain.csproj"
+              "C:\\Aya\\Test1\\Domain\\Test1.Domain.csproj": {
+                "projectPath": "C:\\Aya\\Test1\\Domain\\Test1.Domain.csproj"
               },
-              "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Common\\Test1.Common.csproj": {
-                "projectPath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Common\\Test1.Common.csproj"
+              "C:\\Aya\\Test1\\Test1.Common\\Test1.Common.csproj": {
+                "projectPath": "C:\\Aya\\Test1\\Test1.Common\\Test1.Common.csproj"
               },
-              "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Services\\Test1.Services.csproj": {
-                "projectPath": "C:\\Users\\amjanyelwa.COOP\\source\\repos\\Test1\\Test1.Services\\Test1.Services.csproj"
+              "C:\\Aya\\Test1\\Test1.Services\\Test1.Services.csproj": {
+                "projectPath": "C:\\Aya\\Test1\\Test1.Services\\Test1.Services.csproj"
               }
             }
           }
